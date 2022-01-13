@@ -6,5 +6,6 @@
 |<img  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=WildWestWorld"></a> | <a href="https://github.com/CasterWx"><img style="height200px" src="https://steam-stat.vercel.app/api?profileName=ananto"></a>
 
 
+[![](https://activity-graph.herokuapp.com/graph?username=WildWestWorld&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
