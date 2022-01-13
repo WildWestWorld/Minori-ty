@@ -8,13 +8,6 @@
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=WildWestWorld&repo=VueSpringElementCRUD)](https://github.com/WildWestWorld/VueSpringElementCRUD)
 <br><br><br>
 
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=WildWestWorld&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![WildWestWorld's github stats](https://github-readme-stats.vercel.app/api?username=WildWestWorld&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildWestWorld)
-
 
 
 ### **技术栈:**
@@ -26,3 +19,8 @@
 <a href="https://element-plus.org/#/zh-CN"><code><img height="20" src="./images/element plus.svg"></code></a>
 <a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+
+### Github 活跃度
+![WildWestWorld's github stats](https://github-readme-stats.vercel.app/api?username=WildWestWorld&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildWestWorld)
+[![](https://activity-graph.herokuapp.com/graph?username=WildWestWorld&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
