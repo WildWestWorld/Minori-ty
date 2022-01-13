@@ -3,7 +3,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=250&text=Goodday!&fontAlign=80&fontAlignY=40&color=gradient">
 
 <img  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=WildWestWorld"></a>  
-<img align="right" alt="GIF" src="./images/code.gif" width="100%" height="100" />
+<img align="right" alt="GIF" src="./images/code.gif" width="150px" height="100%" />
 
 [![](https://activity-graph.herokuapp.com/graph?username=WildWestWorld&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
