@@ -3,8 +3,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=250&text=Goodday!&fontAlign=80&fontAlignY=40&color=gradient">
 | Stats | Steam |
 | ---------- | --------- |
-|<img  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=WildWestWorld"></a> | <a href="https://github.com/CasterWx"><img style="height200px" src="https://steam-stat.vercel.app/api?profileName=ananto"></a>
-
+|<img  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=WildWestWorld"></a> |  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 [![](https://activity-graph.herokuapp.com/graph?username=WildWestWorld&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
